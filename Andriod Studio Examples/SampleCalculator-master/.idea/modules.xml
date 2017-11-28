@@ -4,8 +4,10 @@
     <modules>
       <module fileurl="file://C:\Users\Cedrick\Desktop\SampleCalculator-master\SampleCalculator-master\SampleCalculator.iml" filepath="C:\Users\Cedrick\Desktop\SampleCalculator-master\SampleCalculator-master\SampleCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/SampleCalculator-master.iml" filepath="$PROJECT_DIR$/SampleCalculator-master.iml" />
+      <module fileurl="file://H:\ECE 354\ECE-354-Andriod-Studio-\Andriod Studio Examples\SampleCalculator-master\SampleCalculator-master.iml" filepath="H:\ECE 354\ECE-354-Andriod-Studio-\Andriod Studio Examples\SampleCalculator-master\SampleCalculator-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://C:\Users\Cedrick\Desktop\SampleCalculator-master\SampleCalculator-master\app\app.iml" filepath="C:\Users\Cedrick\Desktop\SampleCalculator-master\SampleCalculator-master\app\app.iml" />
+      <module fileurl="file://H:\ECE 354\ECE-354-Andriod-Studio-\Andriod Studio Examples\SampleCalculator-master\app\app.iml" filepath="H:\ECE 354\ECE-354-Andriod-Studio-\Andriod Studio Examples\SampleCalculator-master\app\app.iml" />
     </modules>
   </component>
 </project>
